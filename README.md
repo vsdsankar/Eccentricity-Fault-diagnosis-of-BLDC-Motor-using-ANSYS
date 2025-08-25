@@ -1,0 +1,1 @@
+# Eccentricity-Fault-diagnosis-of-BLDC-Motor-using-ANSYS
